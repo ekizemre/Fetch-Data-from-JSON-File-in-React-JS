@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "title":"WebStylePress",
+        "content":"Content Goes Here",
+        "tech":[
+            {
+                "name":"JavaScript"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"WSP",
+        "content":"Lorem ipsum dolor set amet...",
+        "tech":[
+            {
+                "name":"ReactJS"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title":"Records",
+        "content":"here is hıw we display records from json file in react js...",
+        "tech":[
+            {
+                "name":"VueJS"
+            }
+        ]
+    }
+
+
+]
